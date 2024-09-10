@@ -1,1 +1,1 @@
-# Comparitive-Analysis-of-Fetal-Classification-Models
+# Comparative-Analysis-of-Fetal-Classification-Models
